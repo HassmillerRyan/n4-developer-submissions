@@ -1,0 +1,5 @@
+<types>
+  <!--com.tridiumuniversity.userserviceview.ux-->
+  <type class="com.tridiumuniversity.userserviceview.ux.BUserServiceViewJsBuild" name="UserServiceViewJsBuild"/>
+  <type class="com.tridiumuniversity.userserviceview.ux.BUserServiceViewCssResource" name="UserServiceViewCssResource"/>
+</types>
